@@ -31,7 +31,7 @@ Options:
   -V, --version               Print version
 ```
 
-## Aknowledgements
+## Acknowledgements
 
 This project was inspired and builds on top of [Nat Friedman](https://github.com/nat)'s [natbot](https://github.com/nat/natbot) experiment.
 
